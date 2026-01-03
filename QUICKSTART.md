@@ -271,9 +271,8 @@ python tts.py
 
 **Resources:**
 - 📖 Full README: [README.md](README.md)
-- 🐛 GitHub Issues: [Report Bug](https://github.com/yourusername/chatgpt-voice-assistant/issues)
 - 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/ali-gholami-8809x)
 
 **Before Asking for Help:**
 1. Run `python setup.py` to check configuration
@@ -307,8 +306,8 @@ You now have a working ChatGPT voice assistant!
 
 <div align="center">
 
-**Questions? Issues? Feedback?**  
-[Open an Issue](https://github.com/yourusername/chatgpt-voice-assistant/issues) | [LinkedIn](https://linkedin.com/in/yourprofile)
+**Questions? Feedback?**  
+[LinkedIn](https://www.linkedin.com/in/ali-gholami-8809x)
 
 Made with ❤️ for the AI community
 
