@@ -66,7 +66,7 @@ A **professional, modular voice assistant** that enables natural conversation wi
 ### **Step 1: Clone Repository**
 
 ```bash
-git clone https://github.com/yourusername/chatgpt-voice-assistant.git
+git clone https://github.com/AliTraks/chatgpt-voice-assistant.git
 cd chatgpt-voice-assistant
 ```
 
