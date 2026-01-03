@@ -21,7 +21,7 @@ Before starting, ensure you have:
 ### 1️⃣ Clone & Navigate
 
 ```bash
-git clone https://github.com/yourusername/chatgpt-voice-assistant.git
+git clone https://github.com/AliTraks/chatgpt-voice-assistant.git
 cd chatgpt-voice-assistant
 ```
 
