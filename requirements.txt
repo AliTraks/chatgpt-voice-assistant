@@ -1,0 +1,30 @@
+# ChatGPT Voice Assistant - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core Dependencies
+openai>=1.12.0                    # OpenAI API client (GPT-4o)
+python-dotenv>=1.0.0              # Environment variable management
+
+# Wake Word Detection
+pvporcupine>=3.0.0                # Picovoice Porcupine wake word engine
+
+# Speech-to-Text
+faster-whisper>=0.10.0            # Optimized Whisper implementation
+torch>=2.0.0                      # PyTorch for Whisper model
+
+# Audio Processing
+pyaudio>=0.2.13                   # Audio I/O
+numpy>=1.24.0                     # Numerical operations
+soundfile>=0.12.0                 # Audio file I/O
+
+# Text-to-Speech
+pyttsx3>=2.90                     # Cross-platform TTS engine
+
+# Optional: Advanced TTS (uncomment if needed)
+# edge-tts>=6.1.0                 # Microsoft Edge TTS
+# orca>=0.1.0                     # Picovoice Orca streaming TTS
+
+# Development Tools
+pytest>=7.4.0                     # Testing framework
+black>=23.0.0                     # Code formatter
+flake8>=6.0.0                     # Code linter
