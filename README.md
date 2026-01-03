@@ -417,12 +417,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
+**[Ali Gholami]**  
 *AI Engineer | Full-Stack Developer*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ali-gholami-8809x)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/AliTraks)
 
 ---
 
@@ -474,11 +473,10 @@ This project demonstrates:
 
 ## 💬 Support
 
-For issues, questions, or suggestions:
+For questions, or suggestions:
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/chatgpt-voice-assistant/issues)
+- 📧 Email: ali1313artin@gmail.com
+- 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/ali-gholami-8809x)
 
 ---
 
@@ -486,6 +484,6 @@ For issues, questions, or suggestions:
 
 **⭐ Star this repository if you find it useful!**
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Ali Gholami]
 
 </div>
